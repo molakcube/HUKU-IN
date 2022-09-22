@@ -22,3 +22,7 @@
 #theme-drops {
     background-color: white;
 }
+
+.dropdown-toggle {
+    min-width: 150px;
+}
