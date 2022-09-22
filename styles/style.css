@@ -16,3 +16,9 @@
     justify-content: space-evenly;
     align-items: center;
 }
+
+#date-drops,
+#location-drops,
+#theme-drops {
+    background-color: white;
+}
